@@ -5,4 +5,4 @@
 3. 기존 항목 수정
 4. 삭제
 
-![screen_shot](https://octodex.github.com/images/yaktocat.png)
+![screen_shot](https://github.com/decode33/bucket_list_support/blob/main/images/screen_shot.png?raw=true)
